@@ -1,3 +1,5 @@
+Lưu ý: chạy php 7 chấm nha, chạy cũ lỗi, chạy mới lỗi đó. Còn ver Codeigniter là bản Codeigniter 3 nha.
+<br>
 https://github.com/UIT-web-project/WebProject
 <br>
 requirement: https://drive.google.com/drive/folders/17Mk0dAOZ3Jtb7pWK3eCmssBDa_v9Y32N?usp=sharing
